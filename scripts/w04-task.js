@@ -29,7 +29,6 @@ let myProfile = {
   
   /* Populate Profile Object with placesLive objects */
   
-  
   /* DOM Manipulation - Output */
   
   /* Name */
